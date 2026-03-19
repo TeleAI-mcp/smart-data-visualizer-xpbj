@@ -1,2 +1,3 @@
-# smart-data-visualizer-xpbj
-A data visualization tool for modern development workflows
+# Smart Data Visualizer Xpbj
+
+A data visualization tool for modern development workflows.
